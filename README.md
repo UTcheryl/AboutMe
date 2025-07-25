@@ -4,11 +4,6 @@
 🎓 **Data Analyst**  
 📊 Passionate about turning raw data into a story.
 
----
-
-
----
-
 ## 🔧 Tech Stack
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
