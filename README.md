@@ -1,16 +1,11 @@
 # AboutMe
-# 👋 Hi, I'm Cheryl!
+# 👋 Hi, this is penguincoding!
 
 🎓 **Data Analyst**  
 📊 Passionate about turning raw data into a story.
 
 ---
 
-## 🧠 About Me
-
-- 🧪 Background in **Biomedical Science** (B.S. & M.S.)
-- 📈 Transitioned into **Data Analytics**
-- 💻 Fluent in **R & Python**
 
 ---
 
